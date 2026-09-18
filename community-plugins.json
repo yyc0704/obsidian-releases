@@ -1,5 +1,12 @@
 [
   {
+    "id": "account-card-manager",
+    "name": "Account Card Manager",
+    "author": "yyc0704",
+    "description": "Card-style account & password manager with AES-GCM-256 encrypted storage, one-click copy of username and password.",
+    "repo": "yyc0704/obsidian-account-card-manager"
+  },
+  {
     "id": "hotkeysplus-obsidian",
     "name": "Hotkeys++",
     "author": "argenos",
